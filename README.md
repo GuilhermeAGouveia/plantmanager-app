@@ -19,13 +19,17 @@ Upon project creation, the ".expo" folder is already added to your ".gitignore" 
 # GETTING STARTED
 
 ### Clone github project
+
 > <code>git clone https://github.com/GuilhermeAGouveia/plantmanager-app.git</code>
 
 ### Configuring API REST simulation
 
 O arquivo json src/services/server.json é uma forma de simulação em ambiente de desenvolvimento para uma API REST, para iniciar essa simulação instale o utilitário json-server de maneira global utilizando um gerenciador de pacote como npm ou yarn, Exemplo npm: 
-> <code>npm i -g json-server</code> </br>
+
+> <code>npm i -g json-server</code> 
+
 Para iniciar a API, dentro do diretório src/services, execute: </br>
+
 > <code>json-server --host <IP-HOST> --port <PORT-HOST> server.json</code>
 
 ### Changing the IP server on the REST client
