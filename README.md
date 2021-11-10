@@ -35,7 +35,7 @@ npm i -g json-server
 Para iniciar a API, dentro do diretório src/services, execute: </br>
 
 ```md
-json-server --host <IP-HOST> --port <PORT-HOST> server.json</code>
+json-server --host <IP-HOST> --port <PORT-HOST> server.json
 ```
 
 ### Changing the IP server on the REST client
