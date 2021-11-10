@@ -20,7 +20,7 @@ Upon project creation, the ".expo" folder is already added to your ".gitignore" 
 
 ### Clone github project
 ```md
-[![style: styled-components] > <code>git clone https://github.com/GuilhermeAGouveia/plantmanager-app.git</code>]
+[style: styled-components] > <code>git clone https://github.com/GuilhermeAGouveia/plantmanager-app.git</code>
 ```
 
 
