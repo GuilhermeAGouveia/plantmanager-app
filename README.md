@@ -26,7 +26,7 @@ git clone https://github.com/GuilhermeAGouveia/plantmanager-app.git
 
 ### Configuring API REST simulation
 
-O arquivo json src/services/server.json é uma forma de simulação em ambiente de desenvolvimento para uma API REST, para iniciar essa simulação instale o utilitário json-server de maneira global utilizando um gerenciador de pacote como npm ou yarn, Exemplo npm: 
+O arquivo json src/services/server.json é uma forma de simulação em ambiente de desenvolvimento para uma API REST, para iniciar essa simulação instale o utilitário json-server de maneira global utilizando um gerenciador de pacote como npm ou yarn. Exemplo npm: 
 
 ```md
 npm i -g json-server
